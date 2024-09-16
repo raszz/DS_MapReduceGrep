@@ -20,9 +20,9 @@ Coloque os arquivos de texto que você deseja processar na mesma pasta que o scr
 
 #### Exemplo de Uso
 
-files = ["input0.txt", "input1.txt", "input2.txt", "input3.txt"] // Arquivos de entrada.
-pattern = "cbb$"  // Padrão a ser buscado. Neste exemplo, a linha deve terminar com 'cbb' usando a expressão regular '$'.
-use_regex = True // Define se usa regex (True para usar expressões regulares, False para busca simples).
+files = ["input0.txt", "input1.txt", "input2.txt", "input3.txt"] # Arquivos de entrada.
+pattern = "cbb$"  # Padrão a ser buscado. Neste exemplo, a linha deve terminar com 'cbb' usando a expressão regular '$'.
+use_regex = True # Define se usa regex (True para usar expressões regulares, False para busca simples).
 
 ## **Desenvolvido por:**
 
