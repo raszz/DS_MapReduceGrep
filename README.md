@@ -18,7 +18,7 @@ MapReduce.py: Implementa a lógica do MapReduce para buscar padrões nos arquivo
 
 Coloque os arquivos de texto que você deseja processar na mesma pasta que o script MapReduce.py. Nomeie os arquivos como input0.txt, input1.txt, etc.
 
-> [!NOTE] > Exemplo de Uso
+### Exemplo de Uso
 
 > [!TIP]
 > Arquivos de entrada.
