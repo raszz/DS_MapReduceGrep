@@ -18,19 +18,22 @@ MapReduce.py: Implementa a lógica do MapReduce para buscar padrões nos arquivo
 
 Coloque os arquivos de texto que você deseja processar na mesma pasta que o script MapReduce.py. Nomeie os arquivos como input0.txt, input1.txt, etc.
 
-#### Exemplo de Uso
+> [!NOTE] Exemplo de Uso
 
-##### Arquivos de entrada.
+> [!TIP]
+> Arquivos de entrada.
 
-files = ["input0.txt", "input1.txt", "input2.txt", "input3.txt"]
+- files = ["input0.txt", "input1.txt", "input2.txt", "input3.txt"]
 
-##### Padrão a ser buscado. Neste exemplo, a linha deve terminar com 'cbb' usando a expressão regular '$'.
+> [!TIP]
+> Padrão a ser buscado. Neste exemplo, a linha deve terminar com 'cbb' usando a expressão regular '$'.
 
-pattern = "cbb$"
+- pattern = "cbb$"
 
-##### Define se usa regex (True para usar expressões regulares, False para busca simples).
+> [!TIP]
+> Define se usa regex (True para usar expressões regulares, False para busca simples).
 
-use_regex = True
+- use_regex = True
 
 ## **Desenvolvido por:**
 
